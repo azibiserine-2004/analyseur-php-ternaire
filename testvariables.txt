@@ -1,0 +1,4 @@
+$x = 10;
+$nom = "Alice";
+$_var1 = "serine";
+$resultat_ok = 100;

@@ -1,0 +1,14 @@
+
+$x = 5;
+
+
+$nom = "if";
+$test = "while";
+
+
+$result = $x > 3 ? "azibi" : "serine";
+
+
+if ($x > 3) {
+    echo "test";
+}

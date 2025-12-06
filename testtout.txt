@@ -1,0 +1,23 @@
+$note = 17;
+$coefficient = 25;
+
+$score = $note * $coefficient;
+
+$est_valide = $score >= 10 && $score <= 20;
+
+
+$compteur = 0;
+$compteur=$compteur+1;
+$compteur=$compteur-1;
+
+
+$resultat = $est_valide ? 
+           ($score > 15 ? "Excellent" : "Bon") : 
+           "A ameliorer";
+
+
+if ($resultat == "Excellent") {
+    echo "Felicitations";
+}
+azibi;
+serine;
